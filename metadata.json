@@ -1,0 +1,7 @@
+{
+  "name": "DreamWeaver AI Storyteller",
+  "description": "An immersive AI storytelling experience generating text, visuals, and narration using Gemini 2.5 Flash models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
